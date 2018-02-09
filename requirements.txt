@@ -1,0 +1,9 @@
+pygithub
+jupyter
+notebook
+spyder
+spyder-notebook
+spyder-line-profiler
+spyder-memory-profiler
+spyder-reports
+spyder-terminal
